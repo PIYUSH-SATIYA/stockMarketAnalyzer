@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-from main import symbols, getting_data, plot_candle, forecast
+from project import symbols, getting_data, plot_candle, forecast
 
 def test_symbols_function_exists():
     """Test that symbols function exists"""
