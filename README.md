@@ -2,7 +2,9 @@
 
 A full-fledged stock market analysis application developed with Python and Streamlit that enables users to visualize past stock data, study price trends through moving averages, and predict future price movement. This tool connects intricate financial data to easy visualization, enabling both beginner investors and veteran traders to easily analyze stocks.
 
-### Video Demo: [Link to Video Demo]
+### Video Demo:
+
+[Link to Video Demo](https://youtu.be/HkBlB1I2stE?si=hxQY4HwG636BzkA-)
 
 ## Features
 
